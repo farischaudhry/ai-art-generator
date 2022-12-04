@@ -1,0 +1,14 @@
+ftfy
+regex
+tqdm
+omegaconf
+pytorch-lightning
+kornia
+imageio-ffmpeg
+einops
+ipython
+omegaconf
+pillow
+taming-transformers
+clip-by-openai
+ipywidgets
