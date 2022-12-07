@@ -131,3 +131,7 @@ dmypy.json
 # Models
 .ckpt
 .yaml
+
+# cloned repos
+/CLIP
+/taming
